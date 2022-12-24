@@ -14,26 +14,11 @@ for (a=1;a<=n;a++){
 if(c>b && b>a && c>a){
         printf("%d,%d,%d\n",a,b,c);
         count++;
-
 }
-
-
 }
-
-
 }
-
-
-
 }
-
 printf("Le nombre de triplet est de %d\n",count);
-
-
-
-
-
-
 
     }
 
